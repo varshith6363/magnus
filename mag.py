@@ -1,1 +1,1 @@
-print("hello iam magnus ")
+print("hello iam magnus gaming ")
